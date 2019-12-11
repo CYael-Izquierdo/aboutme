@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Yael Izquierdo</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lionel Andrés Messi Cuccittini, conocido como Leo Messi, ​
+        es un futbolista argentino que juega como delantero o centrocampista.​​\n\n
+        Ha desarrollado toda su carrera en el F. C. Barcelona de la Primera División de España y
+        en la selección argentina, equipos de los que es capitán.\n\n
+        Lionel Andrés Messi Cuccittini, conocido como Leo Messi, ​
+        es un futbolista argentino que juega como delantero o centrocampista.​​\n\n
+        Ha desarrollado toda su carrera en el F. C. Barcelona de la Primera División de España y
+        en la selección argentina, equipos de los que es capitán.\n\n
+        Lionel Andrés Messi Cuccittini, conocido como Leo Messi, ​
+        es un futbolista argentino que juega como delantero o centrocampista.​​\n\n
+        Ha desarrollado toda su carrera en el F. C. Barcelona de la Primera División de España y
+        en la selección argentina, equipos de los que es capitán.\n\n</string>
+    <string name="what_is_yout_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
